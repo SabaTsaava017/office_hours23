@@ -64,18 +64,21 @@ h1{
     text-align: center;
     font-size: 50px;
     color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
 }
 .Beyond{
     display: block;
     text-align: center;
     font-size: 30px;
     color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
 }
 .Buy{
     font-size: 25px;
     padding-left: 700px;
     color: blue;
     display: inline-block;
+    font-family: 'Open Sans', sans-serif;
 }
 .Buy:hover{
     text-decoration: underline;
@@ -86,6 +89,7 @@ h1{
     font-size: 25px;
     padding-left: 700px;
     color: blue;
+    font-family: 'Open Sans', sans-serif;
 }
 .learn_more2:hover{
     text-decoration: underline;
@@ -95,4 +99,91 @@ h1{
     background-size: cover;
     height: 400px;
     margin-top: 10px;
+}
+.iphone_14{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    padding-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.wonderfull{
+    font-size: 30px;
+    padding-left: 700px;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+}
+.bacground_img2{
+    width: 1534px;
+    height: 600px;
+    position: absolute;
+}
+.learn_more3{
+    position: relative;
+    color: blue;
+    font-size: 25px;
+    
+    padding-left: 670px;
+    vertical-align: middle;
+    font-family: 'Open Sans', sans-serif;
+}
+.Buy3{
+    position: relative;
+    color: blue;
+    font-size: 25px;
+    padding-left: 820px;
+    vertical-align: middle;
+    font-family: 'Open Sans', sans-serif;
+}
+.Buy3:hover{
+    text-decoration: underline;
+}
+.learn_more3:hover{
+    text-decoration: underline;
+}
+.tradein_img{
+    height: 520px;
+    width: 750px;
+    margin-top: 422px;
+    position: absolute;
+}
+.apple_icon2{
+    position: relative;
+    color: black;
+    padding-top: 450px;
+    padding-left: 300px;    
+}
+.tradein_span{
+    position: relative;
+    font-size: 40px;
+    vertical-align: middle;
+    font-family: 'Open Sans', sans-serif;
+}
+.Upgrade{
+    position: relative;
+    font-size: 20px;
+    padding-left: 270px;
+    font-family: 'Open Sans', sans-serif;
+}
+.device_is_worth{
+    position: relative;
+    color: blue;
+    display: block;
+    padding-top: 10px;
+    padding-left: 280px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+.device_is_worth:hover{
+    text-decoration: underline;
+}
+.WWDC23{
+    height: 520px;
+    width: 750px;
+}
+.first_img{
+    display:inline-block;
+}
+.second_img{
+    display: inline-block;
 }
