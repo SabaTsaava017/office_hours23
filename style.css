@@ -177,13 +177,23 @@ h1{
 .device_is_worth:hover{
     text-decoration: underline;
 }
-.WWDC23{
-    height: 520px;
+.wrapper{
+    display:flex
+}
+.bird_pictures{
     width: 750px;
+    height: 520px;
+    margin-top: 420px;
+    margin-left: 220px;
+    vertical-align: middle;
+    position: absolute;
 }
-.first_img{
-    display:inline-block;
+.WWDC23{
+    color: brown;
+    font-size: 50px;
+    position: relative;
 }
-.second_img{
-    display: inline-block;
+.Apple_Developers{
+    position: relative;
+    padding-top: 300px;
 }
