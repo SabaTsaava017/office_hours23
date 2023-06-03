@@ -189,11 +189,168 @@ h1{
     position: absolute;
 }
 .WWDC23{
-    color: brown;
-    font-size: 50px;
+    color: white;
+    font-size: 40px;
     position: relative;
+    padding-top: 700px;
+    padding-left:500px;
+    font-family: 'Open Sans', sans-serif;
 }
 .Apple_Developers{
+    color: white;
     position: relative;
-    padding-top: 300px;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-left: 430px;
+    font-family: 'Open Sans', sans-serif;
+}
+.join_online{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    position: relative;
+    color: white;
+    padding-left: 500px;
+}
+.picture_6{
+    padding-top: 100px;
+    width: 1300px;
+    height: 800px;
+    margin-left: 80px;
+    border-radius: 20px;
+    position: absolute;
+}
+.Guided_Tour{
+    position: relative;
+    padding-top: 360px;
+    padding-left: 280px;
+    font-size:21px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.iphone14_iphone14pro{
+    font-size: 35px;
+    position: relative;
+    padding-left: 280px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.film_button{
+    position: relative;
+    font-size: 15px;
+    margin-left: 280px;
+    border-radius: 20px;
+    width: 130px;
+    height: 35px;
+    margin-top: 10px;
+
+}
+.film_button:hover{
+    background-color: #fff;
+}
+
+.question{
+    padding-top: 350px;
+    text-align: center;
+    font-size: 40px;
+    font-family:  'Geologica', sans-serif;
+}
+.iphone_14_pro{
+    padding-top: 50px;
+    margin-left: 370px;
+}
+.iphone_14_pro_colors{
+    display: block;
+    padding-left: 400px;
+    padding-top: 10px;
+}
+.new{
+    padding-left: 430px;
+    color: red;
+    padding-top: 10px;
+}
+.iphone_14_pro_text{
+    padding-left: 370px;
+    font-size: 25px;
+    font-family:  'Geologica', sans-serif;
+}
+.ultimate_iphone{
+    padding-left: 380px;
+    font-size: 17px;
+    padding-top: 10px;
+}
+.From_999{
+    padding-left: 415px;
+    padding-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+.buy2{
+    margin-left: 425px;
+    margin-top: 15px;
+    border-radius: 20px;
+    width: 45px;
+    height: 20px;
+    background-color: #06c;
+    color: white;
+    border-color: #06c;
+}
+.learn_more4{
+    padding-top: 15px;
+    padding-left: 415px;
+    color: #06c;
+}
+.learn_more4:hover{
+    text-decoration: underline;
+}
+.iphones{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.iphone_14{
+    padding-left: 70px;
+    max-width: 210px;
+}
+.iphone_14_colors2{
+    display: block;
+    padding-left: 90px;
+    padding-top: 20px;
+}
+.new2{
+    padding-left: 120px;
+    color: red;
+    padding-top: 10px;
+}
+.iphone_14_text{
+    font-size: 25px;
+    font-family:  'Geologica', sans-serif;
+    padding-left: 90px;
+    padding-top: 5px;
+}
+.powerhouse{
+    font-size: 17px;
+    padding-left: 80px;
+    padding-top: 15px;
+}
+.From_799{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding-top: 30px;
+    padding-left: 110px;
+}
+.Buy5{
+    width: 45px;
+    height: 20px;
+    background-color: #06c;
+    color: white;
+    border-color: #06c;
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.learn_more9{
+    color: #06c;
+    padding-left: 110px;
+    padding-top: 10px;
 }
